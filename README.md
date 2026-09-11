@@ -20,11 +20,4 @@ Install the required dependencies:
 pip install numpy qiskit qiskit-aer matplotlib
 Run the script:
 
-Bash
 python "shor_algorithm_Latest version .py"
-eferences & Literature
-Yanofsky, N. S., & Mannucci, M. A. (2008). Quantum Computing for Computer Scientists. Cambridge University Press.
-
-Hidary, J. D. (2019). Quantum Computing: An Applied Approach. Springer.
-
-IBM Quantum Learning (2026). Shor’s Algorithm Implementation Guide & Qiskit SDK Documentation.
