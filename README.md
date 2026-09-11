@@ -18,6 +18,7 @@ This repository contains a scalable Python implementation of Shor's Algorithm us
 Install the required dependencies:
 ```bash
 pip install numpy qiskit qiskit-aer matplotlib
+
 Run the script:
 
 python "shor_algorithm_Latest version .py"
